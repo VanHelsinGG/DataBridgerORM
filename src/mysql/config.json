@@ -1,0 +1,7 @@
+{
+    "hostname": "localhost",
+    "user": "root",
+    "password": "",
+    "port": 3306,
+    "database": "db_databridger"
+}

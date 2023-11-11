@@ -1,0 +1,16 @@
+{
+    "name": "library/data-bridger",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Library\\DataBridger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VanHelsinGG",
+            "email": "victorhugodasilva26@gmail.com"
+        }
+    ],
+    "require": {}
+}
