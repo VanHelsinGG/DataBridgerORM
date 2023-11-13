@@ -80,7 +80,7 @@ class DatabaseConfig
             throw $e;
         }
     }
-
+    // a
     /**
      * Saves the MySQL connection configuration to the configuration file.
      *
